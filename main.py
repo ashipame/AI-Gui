@@ -2,10 +2,10 @@
 #  Name         : AI-Gui
 #  Desc         : AI-Gui is a program to make using OpenAI easier without 
 #                 having to open the website.
-#  Author       : Wildy Sheverando [WildyBytes]
+#  Author       : Wildy Sheverando [Wildy8283]
 #  Date         : 07-03-2023
 #  License      : GNU General Public License V3
-#  License Link : https://raw.githubusercontent.com/wildybytes/lcn/main/gplv3
+#  License Link : https://raw.githubusercontent.com/wildy8283/lcn/main/gplv3
 # ----------------------------------------------------------------------------
 
 # >> Import Requirement library
